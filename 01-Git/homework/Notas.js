@@ -54,5 +54,13 @@ Staged: Guardar en mi proximo snapshot----Commit
 ----------------------------------------------------------------------------------
 Como se hace un commit?
 git add: De todos que estan... que yo modifique quiero meterlos en la proxima foto.
+git status:
+git commit -m 'Describe'
+------------------------------------------------------------------------------------
+SERVIDORES GIT PUBLICOS.
+Github: 
+-----------------------------------------------------------------------------------
+git push Empuja los cambios:
+git push origin master 
 */
 
